@@ -95,7 +95,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/metropolis_regular"
                 android:text="Email"
-                android:textColor="@color/textAd"
+                android:textColor="@color/black"
                 android:textSize="14sp" />
 
         </LinearLayout>
@@ -158,7 +158,7 @@
                         android:layout_marginTop="5dp"
                         android:fontFamily="@font/metropolis_regular"
                         android:text="Tu no tienes pedidos"
-                        android:textColor="@color/textAd"
+                        android:textColor="@color/black"
                         android:textSize="12sp" />
 
                 </LinearLayout>
@@ -208,7 +208,7 @@
                         android:layout_marginTop="5dp"
                         android:fontFamily="@font/metropolis_regular"
                         android:text="No hay direccion"
-                        android:textColor="@color/textAd"
+                        android:textColor="@color/black"
                         android:textSize="12sp" />
 
                 </LinearLayout>
@@ -259,8 +259,8 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="5dp"
                         android:fontFamily="@font/metropolis_regular"
-                        android:textColor="@color/textAd"
                         android:text="No tienes una tarjeta"
+                        android:textColor="@color/black"
                         android:textSize="12sp" />
 
                 </LinearLayout>
@@ -308,8 +308,8 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="5dp"
                         android:fontFamily="@font/metropolis_regular"
-                        android:textColor="@color/textAd"
                         android:text="Tienes códigos promocionales especiales"
+                        android:textColor="@color/black"
                         android:textSize="12sp" />
 
                 </LinearLayout>
@@ -361,8 +361,8 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="5dp"
                         android:fontFamily="@font/metropolis_regular"
-                        android:textColor="@color/textAd"
                         android:text="Notificaciones, Contraseña"
+                        android:textColor="@color/black"
                         android:textSize="12sp" />
 
                 </LinearLayout>
@@ -386,6 +386,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:lottie_rawRes="@raw/circle_progress" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Cerrar sesion"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout4" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

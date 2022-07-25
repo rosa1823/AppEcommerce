@@ -7,6 +7,7 @@ import android.os.Bundle
 import android.provider.MediaStore
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
+import android.view.MenuItem
 import android.view.View
 import android.view.ViewGroup
 import android.widget.*
@@ -67,7 +68,6 @@ class ProfileFragment : Fragment() {
     lateinit var linearLayout2:LinearLayout
     lateinit var linearLayout3:LinearLayout
     lateinit var linearLayout4:LinearLayout
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -281,3 +281,4 @@ class ProfileFragment : Fragment() {
     }
 
 }
+
