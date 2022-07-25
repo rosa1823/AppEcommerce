@@ -1,0 +1,54 @@
+[
+  {
+  "productName": "Choker de Diamantes Esmeralda",
+  "productId": "1",
+  "productPrice": "39",
+  "productDes": "Dije en oro 18k (Amarillo o blanco 18k)\nEsmeralda de 0.20 carats\nGreen\nCorte Excelente\n\n",
+  "productRating": 4.7,
+  "productDisCount": "12%",
+  "productHave": true,
+  "productBrand": "Sunflowers",
+  "productImage": "https://i.pinimg.com/564x/e8/fe/a2/e8fea21edd1c2cf74f17a3840b3fe035.jpg",
+  "productCategory": "Choker",
+  "productNote": "Sunflowers"
+  },
+  {
+  "productName": "Collar de Diamantes Azulino",
+  "productId": "2",
+  "productPrice": "27",
+  "productDes": "Dije en oro 18k (Amarillo o blanco 18k)\nAzulino de 0.20 carats\nBlue\nCorte Excelente\n\n",
+  "productRating": 3.2,
+  "productDisCount": "",
+  "productHave": false,
+  "productBrand": "RARE Vibes",
+  "productImage": "https://i.pinimg.com/564x/9a/aa/5c/9aaa5c82a2960404fe006a445f326eb9.jpg",
+  "productCategory": "Collar",
+  "productNote": "Sunflowers"
+  },
+  {
+    "productName": "Collar de Diamantes Medusa",
+    "productId": "3",
+    "productPrice": "23",
+    "productDes": "Dije en oro 18k (Amarillo o blanco 18k)\n24 Diamantes de 0.02 carats\nColor F-G\nClaridad VS2\nCorte Excelente\n\n",
+    "productRating": 4.2,
+    "productDisCount": "10%",
+    "productHave": true,
+    "productBrand": "Cateye Glass",
+    "productImage": "https://i.pinimg.com/564x/5f/6c/8c/5f6c8c6683bedb699261e416771390c2.jpg",
+    "productCategory": "Collar",
+    "productNote": "Sunflowers"
+  },
+  {
+    "productName": "Collar Purple Always",
+    "productId": "4",
+    "productPrice": "31",
+    "productDes": "Dije en oro 18k (Amarillo o blanco 18k)\nMorado de 0.20 carats\nPurple\nCorte Excelente\n\n",
+    "productRating": 4.2,
+    "productDisCount": "6%",
+    "productHave": true,
+    "productBrand": "ROYAL SON",
+    "productImage": "https://i.pinimg.com/564x/96/11/67/961167611cfc520bd24a3965c063d800.jpg",
+    "productCategory": "Collar",
+    "productNote": "Sunflowers"
+  }
+]
